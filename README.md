@@ -1,1 +1,1 @@
-# dialectic_intersubjectivity
+# Supplementary Material Repository for Dialectic Intersubjectivity
