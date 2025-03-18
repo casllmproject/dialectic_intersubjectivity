@@ -2,14 +2,12 @@
 
 March 2025
 
-Taewoo Kang, Kjerstin Thorson, Tai-quan Peng, Dan Hiaeshutter-Rice, Sanguk Lee, and Stuart Soroka
-
-*Code & Data manager: Taewoo Kang (kangtaew@msu.edu)
+Authors
 
 This repository contains the replication data and code for the **Dialectic Intersubjectivity Approach** project. Please follow the steps below for usage:  
 
 1. The preprint of this project can be found here:  
-   [https://doi.org/10.48550/arXiv.2502.00903](https://doi.org/10.48550/arXiv.2502.00903)  
+   Withheld for a Journal Review
 
 2. For details on the **scale** used from the **American National Election Study 2020-2022** and the **OpenAI API process** for fine-tuning GPT-4o, refer to:  
    [Online_Supplemental_Materials_Kang_etal2025.pdf](https://github.com/casllmproject/dialectic_intersubjectivity/blob/main/Online_Supplemental_Materials_Kang_etal2025.pdf)  
