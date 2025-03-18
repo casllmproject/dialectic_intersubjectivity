@@ -10,7 +10,7 @@ This repository contains the replication data and code for the **Dialectic Inter
    Withheld for a Journal Review
 
 2. For details on the **scale** used from the **American National Election Study 2020-2022** and the **OpenAI API process** for fine-tuning GPT-4o, refer to:  
-   [Online_Supplemental_Materials_Kang_etal2025.pdf](https://github.com/casllmproject/dialectic_intersubjectivity/blob/main/Online_Supplemental_Materials_Kang_etal2025.pdf)  
+   [Supplemental_Materials_Mar2025.pdf](https://github.com/casllmproject/dialectic_intersubjectivity/blob/main/Supplemental_Materials_Mar2025.pdf)  
 
    2.1. The **Fine-Tuning Code** can be found in this folder:  
    [Fine_Tuning_code](https://github.com/casllmproject/dialectic_intersubjectivity/tree/main/Fine_Tuning_code)  
